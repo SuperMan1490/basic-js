@@ -22,6 +22,7 @@ function dateSample(/* sampleActivity */) {
   // remove line with error and write your code here
 }
 
+
 module.exports = {
   dateSample
 };
